@@ -1,0 +1,15 @@
+source /usr/cad/cadence/cshrc
+source /usr/cad/synopsys/CIC/synthesis.cshrc
+source /usr/cad/synopsys/CIC/primetime.cshrc
+source /usr/spring_soft/CIC/verdi.cshrc
+source /usr/cad/synopsys/CIC/astro.cshrc
+source /usr/cad/synopsys/CIC/tmax.cshrc
+source /usr/cad/cadence/CIC/ic.cshrc
+source /usr/mentor/CIC/calibre.cshrc
+source /usr/cadence/CIC/confrml.cshrc
+source /usr/cad/innovus/CIC/license.cshrc
+source /usr/cad/innovus/CIC/innovus.cshrc
+source /usr/cad/synopsys/CIC/hspice.cshrc
+source /usr/cad/cadence/CIC/assura.cshrc
+source /usr/cad/synopsys/CIC/spyglass.cshrc
+source /usr/cad/synopsys/CIC/vcs.cshrc

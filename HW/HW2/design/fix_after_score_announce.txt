@@ -1,0 +1,2 @@
+add (~o_d_addr_over_w) in core.v :363
+If no this conditions, Data Memory will store error data (address is overflow, and the data should not store into memory)
