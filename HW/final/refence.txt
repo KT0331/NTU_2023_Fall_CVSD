@@ -1,5 +1,0 @@
-Modified Gram-Schmidt:
-
-https://blog.csdn.net/wanhongluli/article/details/82897989
-https://zhuanlan.zhihu.com/p/107469600
-https://www.laurenthoeltgen.name/post/gram-schmidt/

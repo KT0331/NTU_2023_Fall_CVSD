@@ -1,6 +1,0 @@
-pattern50:
-ifmap value隨意產生、移動不會超過boundary、scaling會超過(共50組)
-tb01:
-ifmap value隨意產生、移動會超過boundary(共1組)
-tb03:
-ifmap value分別為全0、全255跟0 255穿插，opmode跟pattern50一致
