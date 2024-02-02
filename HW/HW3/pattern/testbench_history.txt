@@ -1,0 +1,9 @@
+testbench_temp.v:
+最原始版本，僅能夠測試TA的測資
+加密後連design的wave form都無法看
+testbench_temp_pro.v:
+進階版本，需搭配pattern.v與pattern_50.v使用
+僅需將testbench_temp_pro.v加入rtl_01.f、rtl_03.f，pattern.v與pattern_50.v不用加入
+可以將pattern.v與pattern_50.v加密分享給別人，加密後仍可check design的wave form
+pattern.v測試TA的測資
+pattern_50.v測是我自己產出的測資
